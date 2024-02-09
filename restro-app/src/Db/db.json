@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dhaval",
+      "email": "dhavalbavariya@test.com",
+      "password": "Dhaval@123"
+    },
+    {
+      "id": 2,
+      "name": "esha",
+      "email": "esha@test.com",
+      "password": "esha@123"
+    },
+    {
+      "Name": "shwet",
+      "Email": "Shwet@yahoo.com",
+      "Password": "Shwet@123",
+      "id": 3
+    },
+    {
+      "Name": "Sagar Bavariya",
+      "Email": "sagar@gmail.com",
+      "Password": "Sagar@123",
+      "id": 4
+    },
+    {
+      "Name": "dd",
+      "Email": "dd@yahoo.in",
+      "Password": "dd@123",
+      "id": 5
+    }
+  ],
+  "restorants": [
+    {
+      "name": "MAC D",
+      "address": "Gurugram branch111",
+      "contact": "10293090",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Jumbo king",
+      "address": "Mumbai branch",
+      "contact": 98767
+    },
+    {
+      "name": "farm house ",
+      "address": "Farm House, Near Fun fiesta, Nsp",
+      "contact": "987654321",
+      "id": 5
+    },
+    {
+      "name": "blue ocean",
+      "address": "vasai virar",
+      "contact": "7678987676",
+      "id": 6
+    }
+  ]
+}
